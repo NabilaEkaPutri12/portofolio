@@ -470,6 +470,7 @@ footer span a:hover{
     }
     .navbar .menu.active{
         left: 0;
+        width: 25%;
     }
     .navbar .menu li{
         display: block;
